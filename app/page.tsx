@@ -283,7 +283,7 @@ export default function BaliMahaloSurfCo() {
                 </div>
               </div>
               <p className="text-lg text-black leading-relaxed italic">
-                "Made's coaching transformed my surfing completely. I went from struggling to catch waves to confidently
+                "Wira's coaching transformed my surfing completely. I went from struggling to catch waves to confidently
                 riding barrels. The personalized approach and local knowledge made all the difference."
               </p>
             </div>
@@ -321,7 +321,7 @@ export default function BaliMahaloSurfCo() {
                 </div>
               </div>
               <p className="text-lg text-black leading-relaxed italic">
-                "As a complete beginner, I was nervous about my first surf lesson. Wayan's patience and encouragement
+                "As a complete beginner, I was nervous about my first surf lesson. Wira's patience and encouragement
                 helped me catch my first wave on day one. Now I'm addicted!"
               </p>
             </div>
@@ -340,7 +340,7 @@ export default function BaliMahaloSurfCo() {
                 </div>
               </div>
               <p className="text-lg text-black leading-relaxed italic">
-                "The skill training sessions with Made helped me finally nail the cutback I'd been trying to master for
+                "The skill training sessions with Wira helped me finally nail the cutback I'd been trying to master for
                 years. Technical expertise combined with the soul of surfing."
               </p>
             </div>
