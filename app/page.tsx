@@ -45,9 +45,9 @@ export default function BaliMahaloSurfCo() {
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-start">
         <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          className="absolute inset-0 bg-contain bg-center bg-no-repeat bg-gray-900"
           style={{
-            backgroundImage: `url('/995C20BD-412B-400A-B98A-450F0332F363.JPG')`,
+            backgroundImage: `url('/Front.JPG')`,
           }}
         >
           <div className="absolute inset-0 bg-black/20"></div>
@@ -191,7 +191,7 @@ export default function BaliMahaloSurfCo() {
               <h3 className="text-2xl font-semibold mb-2 text-black">Wira Mahalo</h3>
               <p className="text-lg text-gray-600 mb-4">Head Instructor</p>
               <p className="text-black leading-relaxed">
-                Born and raised in Bali, Made has been surfing for over 15 years and coaching for 8. His deep connection
+                Born and raised in Bali, Wira has been surfing for over 15 years and coaching for 8. His deep connection
                 to the ocean and local knowledge makes every session unforgettable.
               </p>
              </div>
@@ -219,7 +219,7 @@ export default function BaliMahaloSurfCo() {
             <div
               className="h-64 bg-cover bg-center rounded-lg"
               style={{
-                backgroundImage: `url('/8BBD0B35-BFC9-4E08-8BAF-9912EB027DD3 2.JPG')`,
+                backgroundImage: `url('/New.JPG')`,
               }}
             ></div>
             <div
